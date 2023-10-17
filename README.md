@@ -1,4 +1,4 @@
-# exercícios resolvidos de todo bootcamp Potência Tech iFood - Programação do Zero
+# Exercícios resolvidos de todo bootcamp Potência Tech iFood - Programação do Zero
 
 ### bom pessoal, me chamo Jean e ao concluir esse bootcamp fiz esse repositório para ajudar as pessoas que estão com dificuldades em concluir o curso.
 *compilei todo o curso com minhas anotações, as resoluções dos desafios de projetos e desafios de código, ao abrir o repositório você encontrará:*
